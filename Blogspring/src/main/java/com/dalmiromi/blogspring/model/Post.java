@@ -1,3 +1,4 @@
+package com.dalmiromi.blogspring.model;
 import java.time.Instant;
 import java.lang.Long;
 import javax.persistence.Column;
